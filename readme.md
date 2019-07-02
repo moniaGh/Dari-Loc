@@ -14,9 +14,7 @@ We used version 5.5.* to develop this project
 
 - ```composer install```
 
-```
-- php artisan key:generate
-```
+- ``` php artisan key:generate ```
 - Create a database and inform .env
 
 - ```  php artisan migrate --seed ``` to create and populate tables
